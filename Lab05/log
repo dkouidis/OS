@@ -1,0 +1,20 @@
+/home/dkouidis/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+stat: cannot stat 'Lab05': No such file or directory
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 411039      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1224/dkouidis)   Gid: ( 1226/dkouidis)
+Access: 2024-12-19 13:04:19.002132753 +0200
+Modify: 2024-12-19 13:04:19.002132753 +0200
+Change: 2024-12-19 13:04:19.002132753 +0200
+ Birth: -
+mv: cannot stat 'second.txt': No such file or directory
+rm: cannot remove 'new_second.txt': No such file or directory
+./first.txt
